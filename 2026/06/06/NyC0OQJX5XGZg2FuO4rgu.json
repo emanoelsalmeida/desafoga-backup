@@ -1,0 +1,1 @@
+{"nodes":[{"parameters":{"httpMethod":"POST","path":"bd971ef4-f4a0-44cf-a292-b577eef671e8","options":{}},"type":"n8n-nodes-base.webhook","typeVersion":2.1,"position":[0,0],"id":"fbabdf1c-6b59-4741-bbfe-d055702b0172","name":"Webhook","webhookId":"bd971ef4-f4a0-44cf-a292-b577eef671e8"}],"connections":{},"pinData":{},"meta":null}
